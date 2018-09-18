@@ -11,4 +11,4 @@ steps:
 
 substitutions:
   _FUNCTION_NAME: helloHttp
-  _BUCKET_NAME: philmod-tmp
+  _BUCKET_NAME: nikhilstoragebucket
